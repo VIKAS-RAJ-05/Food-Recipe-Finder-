@@ -32,6 +32,5 @@ The clean, modern design ensures a smooth and enjoyable browsing experience.
 - **HTML5** – For structuring the content and layout.
 - **CSS3** – For styling, animations, and responsiveness.
 - **JavaScript ** – For interactive features and dynamic content loading.
-- **API Integration** – Fetching recipe data dynamically.
 
 ---
