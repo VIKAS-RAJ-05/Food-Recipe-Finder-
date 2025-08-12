@@ -31,6 +31,6 @@ The clean, modern design ensures a smooth and enjoyable browsing experience.
 ## 🛠️ Technologies Used
 - **HTML5** – For structuring the content and layout.
 - **CSS3** – For styling, animations, and responsiveness.
-- **JavaScript ** – For interactive features and dynamic content loading.
+- **JavaScript** – For interactive features and dynamic content loading.
 
 ---
